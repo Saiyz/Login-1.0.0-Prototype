@@ -10,9 +10,8 @@ Una aplicación de registro y autenticación de usuarios desarrollada en Java Sw
 - [Requisitos](#requisitos)
 - [Instalación](#instalación)
 - [Uso](#uso)
-- [Contribución](#contribución)
-- [Licencia](#licencia)
-- [Contacto](#contacto)
+- [Nota](#nota)
+  
 
 ## Introducción
 
