@@ -73,6 +73,6 @@ Para instalar este proyecto, asegúrate de tener los requisitos para instalarlo.
 6. Luego, puedes regresar a la pantalla de inicio de sesión.
 7. Inicia sesión con tu correo electrónico y contraseña.
 
-#Nota
+# Nota
 Este proyecto es un prototipo de registro e inicio de sesión, la existencia de fallos mientras la ejecución es posible, por lo que se le sugiere informarme para poder realizar una mejora al prototipo.
 Acepto sugerencias, recomendaciones. Gracias.
